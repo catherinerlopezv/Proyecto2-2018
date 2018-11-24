@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  ABBEjemplo.cpp
+c:\users\asus\desktop\final\abbejemplo\abbejemplo\abbejemplo.cpp(62): warning C4805: '==': combinación no segura del tipo 'int' y el tipo 'bool' en la operación
+  ABBEjemplo.vcxproj -> C:\Users\ASUS\Desktop\final\ABBEjemplo\x64\Debug\ABBEjemplo.exe
