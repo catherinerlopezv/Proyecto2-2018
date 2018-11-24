@@ -1,0 +1,44 @@
+﻿  ABBEjemplo.cpp
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(380): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(404): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(429): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(466): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(491): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(516): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(567): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(591): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(616): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(654): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(678): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(703): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(741): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(765): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(790): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(829): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(853): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(878): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(917): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(941): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(966): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(378): warning C4101: 'defensa': variable local sin referencia
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(402): warning C4101: 'defensa': variable local sin referencia
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(427): warning C4101: 'defensa': variable local sin referencia
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(464): warning C4101: 'defensa': variable local sin referencia
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(489): warning C4101: 'defensa': variable local sin referencia
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(514): warning C4101: 'defensa': variable local sin referencia
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(565): warning C4101: 'defensa': variable local sin referencia
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(589): warning C4101: 'defensa': variable local sin referencia
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(614): warning C4101: 'defensa': variable local sin referencia
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(652): warning C4101: 'defensa': variable local sin referencia
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(676): warning C4101: 'defensa': variable local sin referencia
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(701): warning C4101: 'defensa': variable local sin referencia
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(739): warning C4101: 'defensa': variable local sin referencia
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(763): warning C4101: 'defensa': variable local sin referencia
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(788): warning C4101: 'defensa': variable local sin referencia
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(827): warning C4101: 'defensa': variable local sin referencia
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(851): warning C4101: 'defensa': variable local sin referencia
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(876): warning C4101: 'defensa': variable local sin referencia
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(915): warning C4101: 'defensa': variable local sin referencia
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(939): warning C4101: 'defensa': variable local sin referencia
+c:\users\asus\documents\cathy\nueva carpeta\abbejemplo\abbejemplo\abbejemplo.cpp(964): warning C4101: 'defensa': variable local sin referencia
+  ABBEjemplo.vcxproj -> C:\Users\ASUS\Documents\Cathy\Nueva carpeta\ABBEjemplo\Debug\ABBEjemplo.exe
